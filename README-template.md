@@ -13,13 +13,13 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
-- [-Overlay color on an image](#-overlay-color-on-an-image)
+      - [- Overlay color on an image](#--overlay-color-on-an-image)
+      - [- Text formating](#--text-formating)
     - [Continued development](#continued-development)
+      - [whitespace](#whitespace)
     - [Useful resources](#useful-resources)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -55,24 +55,20 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
-# -Overlay color on an image
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
+#### - Overlay color on an image
 ```html
 <div style="background: hsl(277, 64%, 61%);"  class="rounded-t-lg">
   <img class="opacity-40" src="/images/image-header-mobile.jpg" alt="stats preview">
 </div>
 ```
-
+#### - Text formating
+- Make text flow onto mutltiple lines by setting a width limit on the text element or its container
+- Whitespace
+- combine width limit of text with whitespacing to create a multiline text with normal or uniform word spacing
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+#### whitespace
 
 ### Useful resources
 
