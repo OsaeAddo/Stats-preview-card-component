@@ -73,7 +73,7 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Osae Addo](https://www.twitter.com/@Osae__)
 - Frontend Mentor - [@OsaeAddo](https://www.frontendmentor.io/profile/OsaeAddo)
 - Twitter - [@Osae__](https://www.twitter.com/@Osae__)
 
