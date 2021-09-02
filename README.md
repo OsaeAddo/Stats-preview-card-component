@@ -37,8 +37,8 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/stats-preview-card-with-flexbox-grid-overlay-image-with-color-_ecw7UWiv)
+- Live Site URL: (https://stats-preview-card-component-beryl.vercel.app/)
 
 ## My process
 
@@ -69,7 +69,6 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Image color overlay resource](https://dev.to/ellen_dev/two-ways-to-achieve-an-image-colour-overlay-with-css-eio) - This is an amazing article which helped me finally understand how to overlay an image with a color. I'd recommend it to anyone still learning this concept.
 
 
